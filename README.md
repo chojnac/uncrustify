@@ -1,0 +1,1 @@
+# uncrustify configuration
